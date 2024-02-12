@@ -1,0 +1,150 @@
+nav {
+    color: rgb(221, 240, 240);
+    background-color: rgb(10, 1, 1);
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    
+    
+}
+
+.erti:hover {
+    color: red;
+}
+.ori:hover {
+    color: blue;
+}
+.sami:hover {
+    color: blueviolet;
+}
+.otxi:hover {
+    color: aqua;
+}
+.xuti:hover {
+    color: yellow;
+}
+.eqvsi:hover {
+    color: green;
+  
+}
+
+body {
+    background-color: rgb(143, 247, 247);
+}
+table {
+    border: solid
+
+}
+th {
+    background-color: #db32f1;
+}
+
+td {
+    background-color: #b37d9c;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.a1:hover {
+    color: blue;
+    
+}
+.a2:hover {
+    color: red;
+}
+.a3:hover {
+    color: rgb(160, 70, 70);
+}
+.a4:hover {
+    color: yellow;
+}
+.a5:hover {
+    color: green;
+}
+.a6:hover {
+    color: rgb(170, 243, 0);
+}
+.link {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+.link:hover {
+    color: blue;
+}
+.q1, .q2, .q3, .q4, .q5, .q6 {
+    text-decoration: none;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.placeholder1 {
+  
+    height: 10%;
+    
+}
+.danger {
+    background-color: rgb(74, 253, 3);
+    padding: 7px;
+}
+.send {
+    background-color: rgb(250, 4, 4);
+    margin-left: 60px;
+    padding: 7px;
+}
+
+.div3 {
+    display: flex;
+    flex-direction: row;
+}
+.div4 {
+    margin-left: 57px;
+}
+
+.div11 {
+    display: flex;
+    flex-direction: column;
+}
+.w1, .w2, .w3, .w4, .w5 {
+    margin-left: 30px;
+}
+.email {
+    width: 400px;
+    padding: 5px;
+    text-align: center;
+}
+.subscribe {
+    border-radius: 30px;
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+}
+.div12 {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.theend {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.newsletter {
+    margin-left: 140px;
+}
+.contacts {
+    margin-left: 120px;
+}
+footer {
+    background-color: rgb(46, 42, 42);
+    color: rgb(251, 252, 253);
+    padding: 51px;
+}
